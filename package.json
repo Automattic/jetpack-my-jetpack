@@ -25,7 +25,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "^0.1",
 		"@automattic/jetpack-api": "^0.14",
-		"@automattic/jetpack-components": "^0.22",
+		"@automattic/jetpack-components": "^0.23",
 		"@automattic/jetpack-connection": "^0.22",
 		"@automattic/jetpack-licensing": "^0.6",
 		"@wordpress/api-fetch": "6.16.0",
