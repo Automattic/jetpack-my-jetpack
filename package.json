@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-my-jetpack",
-	"version": "3.4.2-alpha",
+	"version": "3.4.2",
 	"description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/my-jetpack/#readme",
 	"bugs": {
@@ -23,9 +23,9 @@
 	},
 	"dependencies": {
 		"@automattic/format-currency": "1.0.1",
-		"@automattic/jetpack-analytics": "^0.1.27-alpha",
+		"@automattic/jetpack-analytics": "^0.1.27",
 		"@automattic/jetpack-api": "^0.16.1",
-		"@automattic/jetpack-base-styles": "^0.6.6-alpha",
+		"@automattic/jetpack-base-styles": "^0.6.6",
 		"@automattic/jetpack-components": "^0.41.1",
 		"@automattic/jetpack-connection": "^0.29.8",
 		"@automattic/jetpack-licensing": "workspace:*",
