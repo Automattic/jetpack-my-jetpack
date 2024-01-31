@@ -27,7 +27,7 @@
 		"@automattic/jetpack-api": "^0.16.8",
 		"@automattic/jetpack-base-styles": "^0.6.15",
 		"@automattic/jetpack-components": "^0.48.1-alpha",
-		"@automattic/jetpack-connection": "^0.31.2",
+		"@automattic/jetpack-connection": "^0.32.0-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@wordpress/api-fetch": "6.45.0",
 		"@wordpress/components": "25.14.0",
