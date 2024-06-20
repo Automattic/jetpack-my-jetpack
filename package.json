@@ -27,7 +27,7 @@
 		"@automattic/jetpack-api": "^0.17.8",
 		"@automattic/jetpack-base-styles": "^0.6.27",
 		"@automattic/jetpack-boost-score-api": "^0.1.32",
-		"@automattic/jetpack-components": "^0.53.10",
+		"@automattic/jetpack-components": "^0.54.0-alpha",
 		"@automattic/jetpack-connection": "^0.33.17",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@tanstack/react-query": "5.20.5",
