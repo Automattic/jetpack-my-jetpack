@@ -26,7 +26,7 @@
 		"@automattic/jetpack-analytics": "^0.1.31",
 		"@automattic/jetpack-api": "^0.17.15",
 		"@automattic/jetpack-base-styles": "^0.6.34",
-		"@automattic/jetpack-boost-score-api": "^0.1.42",
+		"@automattic/jetpack-boost-score-api": "^0.1.43-alpha",
 		"@automattic/jetpack-components": "^0.58.0",
 		"@automattic/jetpack-connection": "^0.35.14",
 		"@automattic/jetpack-explat": "^0.1.12",
