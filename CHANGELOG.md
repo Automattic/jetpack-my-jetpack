@@ -9,6 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add AI to Complete feature copy
+
+### Changed
+- Remove purchase related elements when Complete is on site
+- Updated package dependencies.
+
+### Fixed
+- Fixed lints following ESLint rule changes for TS
+- My Jetpack: fix animation flick on connection screen in My Jetpack.
+
 ## [5.1.1] - 2024-12-04
 ### Changed
 - Updated package dependencies. [#40363]
