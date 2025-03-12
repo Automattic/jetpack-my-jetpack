@@ -31,7 +31,7 @@
 		"@automattic/jetpack-boost-score-api": "^0.1.58",
 		"@automattic/jetpack-components": "^0.68.2-alpha",
 		"@automattic/jetpack-connection": "^0.39.0",
-		"@automattic/jetpack-explat": "^0.2.10",
+		"@automattic/jetpack-explat": "^0.2.11-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.0-alpha",
 		"@tanstack/react-query": "5.20.5",
