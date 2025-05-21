@@ -31,7 +31,7 @@
 		"@automattic/jetpack-boost-score-api": "^0.1.64",
 		"@automattic/jetpack-components": "^0.73.2-alpha",
 		"@automattic/jetpack-connection": "^0.39.15",
-		"@automattic/jetpack-explat": "^0.2.19",
+		"@automattic/jetpack-explat": "^0.2.20-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-shared-extension-utils": "^0.20.0",
 		"@automattic/number-formatters": "^1.0.2",
