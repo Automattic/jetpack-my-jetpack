@@ -25,7 +25,7 @@
 	},
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.45",
-		"@automattic/jetpack-analytics": "^0.1.36",
+		"@automattic/jetpack-analytics": "^0.1.37-alpha",
 		"@automattic/jetpack-api": "^0.20.3",
 		"@automattic/jetpack-base-styles": "^0.8.0-alpha",
 		"@automattic/jetpack-boost-score-api": "^0.1.66",
@@ -47,7 +47,7 @@
 		"@wordpress/icons": "10.24.0",
 		"@wordpress/url": "4.24.0",
 		"clsx": "2.1.1",
-		"debug": "4.4.0",
+		"debug": "4.4.1",
 		"gridicons": "3.4.1",
 		"prop-types": "15.8.1",
 		"react-router-dom": "6.30.0"
