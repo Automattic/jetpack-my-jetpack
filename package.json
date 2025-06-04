@@ -29,7 +29,7 @@
 		"@automattic/jetpack-api": "^1.0.0",
 		"@automattic/jetpack-base-styles": "^1.0.0",
 		"@automattic/jetpack-boost-score-api": "^1.0.0",
-		"@automattic/jetpack-components": "^1.0.0",
+		"@automattic/jetpack-components": "^1.1.0-alpha",
 		"@automattic/jetpack-connection": "^1.0.0",
 		"@automattic/jetpack-explat": "^0.2.23-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
