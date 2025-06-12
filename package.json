@@ -34,7 +34,7 @@
 		"@automattic/jetpack-explat": "^0.2.23",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.4.3",
-		"@automattic/jetpack-shared-extension-utils": "^1.0.2",
+		"@automattic/jetpack-shared-extension-utils": "^1.1.0-alpha",
 		"@automattic/number-formatters": "^1.0.4",
 		"@tanstack/react-query": "5.75.1",
 		"@wordpress/api-fetch": "7.24.0",
