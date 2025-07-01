@@ -24,7 +24,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.47",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.48-alpha",
 		"@automattic/charts": "^0.16.0-alpha",
 		"@automattic/jetpack-analytics": "^1.0.2-alpha",
 		"@automattic/jetpack-api": "^1.0.3-alpha",
@@ -32,11 +32,11 @@
 		"@automattic/jetpack-boost-score-api": "^1.0.4",
 		"@automattic/jetpack-components": "^1.1.8-alpha",
 		"@automattic/jetpack-connection": "^1.2.8-alpha",
-		"@automattic/jetpack-explat": "^0.3.1",
+		"@automattic/jetpack-explat": "^0.3.2-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.4.4",
 		"@automattic/jetpack-shared-extension-utils": "^1.2.3-alpha",
-		"@automattic/number-formatters": "^1.0.6",
+		"@automattic/number-formatters": "^1.0.7-alpha",
 		"@automattic/ui": "1.0.1",
 		"@tanstack/react-query": "5.75.1",
 		"@wordpress/api-fetch": "7.25.0",
@@ -64,7 +64,7 @@
 	],
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.27.4",
+		"@babel/core": "7.27.7",
 		"@babel/preset-env": "7.27.2",
 		"@storybook/react": "8.6.7",
 		"@testing-library/dom": "10.4.0",
