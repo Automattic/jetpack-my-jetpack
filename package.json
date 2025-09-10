@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-my-jetpack",
-	"version": "5.26.2",
+	"version": "5.26.3-alpha",
 	"private": true,
 	"description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/my-jetpack/#readme",
@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.51",
-		"@automattic/charts": "^0.35.0-alpha",
+		"@automattic/charts": "^0.35.0",
 		"@automattic/jetpack-analytics": "^1.0.4",
 		"@automattic/jetpack-api": "^1.0.9",
 		"@automattic/jetpack-base-styles": "^1.0.9",
