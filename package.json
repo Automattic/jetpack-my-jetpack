@@ -40,7 +40,7 @@
 		"@automattic/jetpack-boost-score-api": "^1.0.28",
 		"@automattic/jetpack-components": "^1.4.13-alpha",
 		"@automattic/jetpack-connection": "^1.4.34-alpha",
-		"@automattic/jetpack-explat": "^0.4.10",
+		"@automattic/jetpack-explat": "^0.4.11-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.5.4",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.11",
