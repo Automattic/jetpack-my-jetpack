@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-my-jetpack",
-	"version": "5.31.3",
+	"version": "5.31.4-alpha",
 	"private": true,
 	"description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/my-jetpack/#readme",
@@ -40,7 +40,7 @@
 		"@automattic/jetpack-boost-score-api": "^1.0.30-alpha",
 		"@automattic/jetpack-components": "^1.4.14-alpha",
 		"@automattic/jetpack-connection": "^1.4.35-alpha",
-		"@automattic/jetpack-explat": "^0.4.11",
+		"@automattic/jetpack-explat": "^0.4.12-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.5.5-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.13-alpha",
@@ -85,7 +85,7 @@
 		"sass-loader": "16.0.5",
 		"storybook": "10.2.3",
 		"typescript": "5.9.3",
-		"webpack": "5.104.1",
+		"webpack": "5.105.2",
 		"webpack-cli": "6.0.1",
 		"webpack-dev-server": "5.2.3"
 	}
