@@ -42,7 +42,7 @@
 		"@automattic/jetpack-connection": "^1.4.44-alpha",
 		"@automattic/jetpack-explat": "^0.4.20-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
-		"@automattic/jetpack-script-data": "^0.6.1",
+		"@automattic/jetpack-script-data": "^0.6.2-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.8-alpha",
 		"@automattic/number-formatters": "^1.1.5-alpha",
 		"@automattic/ui": "1.0.2",
