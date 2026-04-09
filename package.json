@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.56",
-		"@automattic/charts": "^1.0.3-alpha",
+		"@automattic/charts": "^1.1.0-alpha",
 		"@automattic/jetpack-analytics": "^1.0.9",
 		"@automattic/jetpack-api": "^1.0.22-alpha",
 		"@automattic/jetpack-base-styles": "^1.0.21-alpha",
