@@ -34,7 +34,7 @@
 	"dependencies": {
 		"@automattic/babel-plugin-replace-textdomain": "^1.0.56",
 		"@automattic/charts": "^1.2.0",
-		"@automattic/jetpack-analytics": "^1.0.9",
+		"@automattic/jetpack-analytics": "^1.0.10-alpha",
 		"@automattic/jetpack-api": "^1.0.23",
 		"@automattic/jetpack-base-styles": "^1.1.0",
 		"@automattic/jetpack-boost-score-api": "^1.0.38",
