@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-my-jetpack",
-	"version": "5.34.5-alpha",
+	"version": "5.35.0-alpha",
 	"private": true,
 	"description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/my-jetpack/#readme",
@@ -45,7 +45,6 @@
 		"@automattic/jetpack-script-data": "^0.6.2",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.10",
 		"@automattic/number-formatters": "^1.1.6",
-		"@automattic/ui": "1.0.2",
 		"@tanstack/react-query": "5.90.8",
 		"@wordpress/api-fetch": "7.44.0",
 		"@wordpress/components": "32.6.0",
@@ -57,6 +56,7 @@
 		"@wordpress/i18n": "6.17.0",
 		"@wordpress/icons": "12.2.0",
 		"@wordpress/theme": "0.11.0",
+		"@wordpress/ui": "0.11.0",
 		"@wordpress/url": "4.44.0",
 		"clsx": "2.1.1",
 		"debug": "4.4.3",
