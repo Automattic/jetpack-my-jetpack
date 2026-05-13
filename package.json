@@ -32,15 +32,15 @@
 		"watch:hot": "pnpm run clean && webpack serve"
 	},
 	"dependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.1.0-alpha",
+		"@automattic/babel-plugin-replace-textdomain": "^1.1.0",
 		"@automattic/charts": "^1.4.0-alpha",
 		"@automattic/jetpack-analytics": "^1.0.11",
 		"@automattic/jetpack-api": "^1.0.24",
 		"@automattic/jetpack-base-styles": "^1.2.2-alpha",
-		"@automattic/jetpack-boost-score-api": "^1.0.40",
+		"@automattic/jetpack-boost-score-api": "^1.0.41-alpha",
 		"@automattic/jetpack-components": "^1.11.1-alpha",
 		"@automattic/jetpack-connection": "^1.4.50-alpha",
-		"@automattic/jetpack-explat": "^0.4.23",
+		"@automattic/jetpack-explat": "^0.4.24-alpha",
 		"@automattic/jetpack-licensing": "workspace:*",
 		"@automattic/jetpack-script-data": "^0.6.3",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.14-alpha",
