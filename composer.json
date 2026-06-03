@@ -5,25 +5,25 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "^0.8.9-alpha",
-		"automattic/jetpack-assets": "^4.3.40-alpha",
+		"automattic/jetpack-admin-ui": "^0.8.9",
+		"automattic/jetpack-assets": "^4.3.40",
 		"automattic/jetpack-boost-speed-score": "^0.4.16-alpha",
-		"automattic/jetpack-connection": "^8.5.3-alpha",
+		"automattic/jetpack-connection": "^8.5.3",
 		"automattic/jetpack-explat": "^0.4.27-alpha",
 		"automattic/jetpack-jitm": "^4.3.38-alpha",
 		"automattic/jetpack-licensing": "^3.1.8-alpha",
 		"automattic/jetpack-plugins-installer": "^0.5.10-alpha",
-		"automattic/jetpack-redirect": "^3.0.13-alpha",
-		"automattic/jetpack-constants": "^3.0.11-alpha",
+		"automattic/jetpack-redirect": "^3.0.13",
+		"automattic/jetpack-constants": "^3.0.11",
 		"automattic/jetpack-plans": "^0.11.8-alpha",
-		"automattic/jetpack-status": "^6.1.6-alpha",
+		"automattic/jetpack-status": "^6.1.6",
 		"automattic/jetpack-sync": "^4.39.1-alpha",
 		"automattic/jetpack-protect-status": "^0.7.12-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.7-alpha"
+		"automattic/phpunit-select-config": "^1.0.7"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
