@@ -5,26 +5,26 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "^0.9.0",
-		"automattic/jetpack-agents-manager": "^0.3.0",
-		"automattic/jetpack-assets": "^4.3.40",
-		"automattic/jetpack-boost-speed-score": "^0.4.16",
-		"automattic/jetpack-connection": "^8.5.4",
-		"automattic/jetpack-explat": "^0.4.27",
-		"automattic/jetpack-jitm": "^4.3.38",
-		"automattic/jetpack-licensing": "^3.1.8",
-		"automattic/jetpack-plugins-installer": "^0.5.10",
-		"automattic/jetpack-redirect": "^3.0.13",
-		"automattic/jetpack-constants": "^3.0.11",
-		"automattic/jetpack-plans": "^0.11.8",
-		"automattic/jetpack-status": "^6.1.6",
-		"automattic/jetpack-sync": "^4.39.1",
-		"automattic/jetpack-protect-status": "^0.7.12"
+		"automattic/jetpack-admin-ui": "^0.9.1-alpha",
+		"automattic/jetpack-agents-manager": "^0.3.1-alpha",
+		"automattic/jetpack-assets": "^4.3.41-alpha",
+		"automattic/jetpack-boost-speed-score": "^0.4.17-alpha",
+		"automattic/jetpack-connection": "^8.5.5-alpha",
+		"automattic/jetpack-explat": "^0.4.28-alpha",
+		"automattic/jetpack-jitm": "^4.3.39-alpha",
+		"automattic/jetpack-licensing": "^3.1.9-alpha",
+		"automattic/jetpack-plugins-installer": "^0.5.11-alpha",
+		"automattic/jetpack-redirect": "^3.0.14-alpha",
+		"automattic/jetpack-constants": "^3.0.12-alpha",
+		"automattic/jetpack-plans": "^0.11.9-alpha",
+		"automattic/jetpack-status": "^6.1.7-alpha",
+		"automattic/jetpack-sync": "^4.39.2-alpha",
+		"automattic/jetpack-protect-status": "^0.7.13-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.7"
+		"automattic/phpunit-select-config": "^1.0.8-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -39,7 +39,6 @@
 		"phpunit": [
 			"phpunit-select-config phpunit.#.xml.dist --colors=always"
 		],
-		"test-coverage": "pnpm concurrently --names php,js 'composer test-php-coverage' 'composer test-js-coverage'",
 		"test-js": "pnpm run test",
 		"test-js-coverage": "pnpm run test-coverage",
 		"test-js-watch": [
