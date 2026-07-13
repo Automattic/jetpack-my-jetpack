@@ -9,7 +9,7 @@
 		"automattic/jetpack-agents-manager": "^0.8.0",
 		"automattic/jetpack-assets": "^4.4.4",
 		"automattic/jetpack-boost-speed-score": "^0.4.18",
-		"automattic/jetpack-connection": "^8.7.7",
+		"automattic/jetpack-connection": "^8.7.8-alpha",
 		"automattic/jetpack-explat": "^0.4.35",
 		"automattic/jetpack-jitm": "^4.3.46",
 		"automattic/jetpack-licensing": "^3.1.9",
@@ -19,7 +19,7 @@
 		"automattic/jetpack-constants": "^3.0.12",
 		"automattic/jetpack-plans": "^0.11.9",
 		"automattic/jetpack-status": "^6.1.9",
-		"automattic/jetpack-sync": "^4.45.1",
+		"automattic/jetpack-sync": "^4.45.2-alpha",
 		"automattic/jetpack-protect-status": "^0.7.13",
 		"automattic/jetpack-wp-build-polyfills": "^0.2.1"
 	},
