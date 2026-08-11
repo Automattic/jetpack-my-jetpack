@@ -17,10 +17,10 @@
 		"automattic/jetpack-plugins-installer": "^0.5.11",
 		"automattic/jetpack-redirect": "^3.0.15",
 		"automattic/jetpack-constants": "^3.0.12",
-		"automattic/jetpack-plans": "^0.12.0-alpha",
+		"automattic/jetpack-plans": "^0.12.0",
 		"automattic/jetpack-status": "^6.3.0",
 		"automattic/jetpack-sync": "^4.45.3",
-		"automattic/jetpack-protect-status": "^0.7.13",
+		"automattic/jetpack-protect-status": "^0.7.14",
 		"automattic/jetpack-wp-build-polyfills": "^0.4.0"
 	},
 	"require-dev": {
