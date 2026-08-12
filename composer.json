@@ -81,7 +81,8 @@
 		"dependencies": {
 			"test-only": [
 				"packages/search",
-				"packages/videopress"
+				"packages/videopress",
+				"packages/waf"
 			]
 		}
 	},
