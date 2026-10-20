@@ -5,27 +5,27 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-admin-ui": "^0.14.7",
-		"automattic/jetpack-assets": "^5.0.13",
-		"automattic/jetpack-boost-speed-score": "^0.6.0",
-		"automattic/jetpack-connection": "^9.12.1",
-		"automattic/jetpack-explat": "^0.6.4",
-		"automattic/jetpack-feature-flags": "^0.2.0",
-		"automattic/jetpack-jitm": "^5.1.4",
-		"automattic/jetpack-licensing": "^4.1.0",
-		"automattic/jetpack-menu-badges": "^0.2.2",
-		"automattic/jetpack-plugins-installer": "^0.6.0",
-		"automattic/jetpack-redirect": "^4.0.0",
-		"automattic/jetpack-constants": "^4.0.0",
+		"automattic/jetpack-admin-ui": "^0.14.8-alpha",
+		"automattic/jetpack-assets": "^5.0.14-alpha",
+		"automattic/jetpack-boost-speed-score": "^0.6.1-alpha",
+		"automattic/jetpack-connection": "^9.12.2-alpha",
+		"automattic/jetpack-explat": "^0.6.5-alpha",
+		"automattic/jetpack-feature-flags": "^0.2.1-alpha",
+		"automattic/jetpack-jitm": "^5.1.5-alpha",
+		"automattic/jetpack-licensing": "^4.1.1-alpha",
+		"automattic/jetpack-menu-badges": "^0.2.3-alpha",
+		"automattic/jetpack-plugins-installer": "^0.6.1-alpha",
+		"automattic/jetpack-redirect": "^4.0.1-alpha",
+		"automattic/jetpack-constants": "^4.0.1-alpha",
 		"automattic/jetpack-plans": "^0.15.0-alpha",
-		"automattic/jetpack-status": "^7.1.0",
-		"automattic/jetpack-sync": "^5.4.2",
-		"automattic/jetpack-protect-status": "^0.9.0",
-		"automattic/jetpack-wp-build-polyfills": "^0.6.4"
+		"automattic/jetpack-status": "^7.1.1-alpha",
+		"automattic/jetpack-sync": "^5.4.3-alpha",
+		"automattic/jetpack-protect-status": "^0.9.1-alpha",
+		"automattic/jetpack-wp-build-polyfills": "^0.6.5-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.11"
+		"automattic/phpunit-select-config": "^1.0.12-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -66,7 +66,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-my-jetpack",
 		"textdomain": "jetpack-my-jetpack",
 		"changelogger": {
