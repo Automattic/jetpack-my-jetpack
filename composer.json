@@ -79,6 +79,7 @@
 		},
 		"dependencies": {
 			"test-only": [
+				"packages/protect",
 				"packages/search",
 				"packages/videopress",
 				"packages/waf"
