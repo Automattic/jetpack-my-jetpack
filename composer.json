@@ -11,7 +11,7 @@
 		"automattic/jetpack-connection": "^9.16.0-alpha",
 		"automattic/jetpack-explat": "^0.6.6",
 		"automattic/jetpack-feature-flags": "^0.2.1",
-		"automattic/jetpack-jitm": "^5.1.7",
+		"automattic/jetpack-jitm": "^5.1.8-alpha",
 		"automattic/jetpack-licensing": "^4.1.1",
 		"automattic/jetpack-menu-badges": "^0.2.3",
 		"automattic/jetpack-plugins-installer": "^0.6.1",
