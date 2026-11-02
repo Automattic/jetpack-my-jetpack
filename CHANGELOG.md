@@ -10,21 +10,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add a feature flag for consolidating settings in My Jetpack, off by default.
+- Add the settings consolidation flag to the admin script data, off by default.
 - Features: Connect a WordPress.com account from the Install or Connect button of features that need one.
 - Features: Offer Connect on Jetpack AI when a WordPress.com account is all it is missing.
 - Features: Turn a feature on when its account connection, started from its Connect button, returns to Features.
 
 ### Changed
+- Boost: Say "Checking site speed…" instead of "Calculating…" while the speed score loads.
 - Connection: Report connection events with the `my-jetpack` context and a placement for the header, the connection card and the page notice.
 - Features: Keep a plugin's switch busy until its card has refreshed after turning the plugin on or off, and show the success message once the card is up to date.
 - Features: On block themes, link the Sharing and Likes cards to Settings > Sharing, where the blocks can be placed in a click, instead of the Site Editor.
 - Features: Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make. Restore the previous behavior with the `jetpack_feature_flag_enabled_my-jetpack-account-connect` filter.
 - Features: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
 - Features: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
+- Leave the recommendation to install or activate plugins included in a bundle plan out of the Jetpack menu notification badge.
+- Move the dashboard to the wp-build router. Links in the older #/ form still open the same screen.
 - Open the Jetpack Connection details on the Connectors screen from the header's Manage connection link.
 - Protect: Skip the threats alert in the menu bubble and on My Jetpack when the host turns off threat notifications.
+- Update package dependencies.
 
 ### Fixed
+- Boost card: Share speed scores with the Boost dashboard, and measure the home page when WordPress lives in a subdirectory.
+- Dashboard: Fix "Something went wrong!" on WordPress 7.1 when the site data request fails.
 - Features: Keep security modules managed in Protect out of bulk changes.
 - Header: Stop showing a focus ring on the account panel's first link when it is opened with the mouse.
 - Protect: Send the card's manage and Scan results links wherever a host sends the Features tab's Protect link.

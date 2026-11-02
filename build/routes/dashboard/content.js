@@ -19,11 +19,11 @@ __( "Invalid response while requesting metrics", "jetpack-my-jetpack" );
 __( "Timed out while waiting for speed-score.", "jetpack-my-jetpack" );
 __( "Jetpack Logo", "jetpack-my-jetpack" );
 __( "An Automattic Airline", "jetpack-my-jetpack" );
-/* translators: accessibility text appended to link text */
-__( "(opens in a new tab)", "jetpack-my-jetpack" );
+__( "Loading", "jetpack-my-jetpack" );
 /* translators: %s: keyboard shortcut. */
 __( "Keyboard shortcut: %s", "jetpack-my-jetpack" );
-__( "Loading", "jetpack-my-jetpack" );
+/* translators: accessibility text appended to link text */
+__( "(opens in a new tab)", "jetpack-my-jetpack" );
 __( "Features", "jetpack-my-jetpack" );
 __( "Help", "jetpack-my-jetpack" );
 __( "Jetpack", "jetpack-my-jetpack" );
@@ -929,7 +929,7 @@ __( "Contact support to reactivate", "jetpack-my-jetpack" );
 __( "Activate to optimize", "jetpack-my-jetpack" );
 __( "Optimize speed", "jetpack-my-jetpack" );
 __( "Speed score", "jetpack-my-jetpack" );
-__( "Calculating…", "jetpack-my-jetpack" );
+__( "Checking site speed…", "jetpack-my-jetpack" );
 __( "Failed to calculate score", "jetpack-my-jetpack" );
 __( "Activate Protect", "jetpack-my-jetpack" );
 __( "Threats found", "jetpack-my-jetpack" );
